@@ -15,11 +15,11 @@ This hands-on project strengthened my skills in penetration testing, exploit dev
 
 ## Team Members
 
-Victor Lopez - Contributor
-Ryker Workman - Contributor
-Edwin Kurian - Contributor
-Amber Hood - Contributor
-Trinity Klein - Contributor
+Victor Lopez - Contributor<br>
+Ryker Workman - Contributor<br>
+Edwin Kurian - Contributor<br>
+Amber Hood - Contributor<br>
+Trinity Klein - Contributor<br>
 
 ## Tools & Technologies
 
@@ -64,19 +64,19 @@ Successfully achieved root access on the Bookstore CTF machine, demonstrating en
 ## References
 
 1. Stapler 1 - CTF Walkthrough - Boot-To-Root 
-a. Link: https://www.youtube.com/watch?v=cSOAzEQHlh0   
+a. Link: https://www.youtube.com/watch?v=cSOAzEQHlh0<br>
 2. CTF Walkthrough with John Hammond 
-a. Link: https://youtu.be/ZUqGSbvZp1k?si=ONyPaIZz48_W5fAc   
+a. Link: https://youtu.be/ZUqGSbvZp1k?si=ONyPaIZz48_W5fAc<br>
 3. Hacking Bookstore 
-a. Link: https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbee  
+a. Link: https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbee<br>  
 4. Hacking APIs: Fuzzing 101 
 a. https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbeehttps://w
-ww.youtube.com/watch?v=M_guA0wjrLg  
+ww.youtube.com/watch?v=M_guA0wjrLg<br>
 5. TryHackMe! Bookstore - REST API Fuzzing //walk-through 
-a. Link: https://www.youtube.com/watch?v=un6aNIbpGUY&ab_channel=Yesspider  
+a. Link: https://www.youtube.com/watch?v=un6aNIbpGUY&ab_channel=Yesspider<br>  
 6. Bookstore — TryHackMe — WriteUp  
 a. Link: https://tonyrahmos.medium.com/bookstore-tryhackme-writeup-
-a2e87e6064f1  
+a2e87e6064f1<br>  
 
 ---
 
