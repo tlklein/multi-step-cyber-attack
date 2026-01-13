@@ -1,6 +1,6 @@
-![image](banner.png)
-
 # Multi-Step Cyber Attack Simulation (TryHackMe: Bookstore CTF)
+
+![image](banner.png)
 
 ## Project Overview
 
@@ -11,7 +11,7 @@ The lab was divided into two parts:
 1. Practical CTF Simulation – Boot-to-root challenge with service enumeration, REST API fuzzing, file inclusion exploits, and privilege escalation.
 2. Analytical Lab Report – Documentation of methodology, tools, findings, and reflections on the simulation.
 
-This hands-on project strengthened my skills in penetration testing, exploit development, incident reporting, and teamwork under time constraints.
+This hands-on project strengthened practical skills in penetration testing, exploit development, incident reporting, and teamwork under time constraints. It led to the successful application of systematic reconnaissance, REST API fuzzing, and binary reverse engineering to identify vulnerabilities and escalate privileges. Root access was successfully on the target system, demonstrating a complete attack workflow from enumeration through exploitation and privilege escalation. 
 
 ## Team Members
 
@@ -39,18 +39,9 @@ Trinity Klein - Contributor<br>
 5. Privilege Escalation – Analyzed custom binary (`try-harder`) with Ghidra, identified required “magic number.”
 6. Root Access – Derived correct value, executed binary, escalated to root, and retrieved `root.txt`.
 
-## Key Learning & Outcomes
-
-- Importance of systematic reconnaissance in penetration testing.
-- Applied REST API fuzzing to exploit insecure endpoints.
-- Hands-on experience with reverse engineering binaries for privilege escalation.
-- Strengthened incident reporting & documentation skills.
-- Practiced team-based problem solving under strict time constraints.
-- Successfully achieved root access on the Bookstore CTF machine, demonstrating end-to-end penetration testing workflow from reconnaissance to privilege escalation.
-
 ## Repository Structure
 
-```
+```text
 /multi-step-cyber-attack
 │── README.md              # Project summary
 │── report.pdf             # Full lab report PDF
@@ -60,21 +51,19 @@ Trinity Klein - Contributor<br>
 
 ## References
 
-1. Stapler 1 - CTF Walkthrough - Boot-To-Root 
-a. Link: https://www.youtube.com/watch?v=cSOAzEQHlh0<br>
-2. CTF Walkthrough with John Hammond 
-a. Link: https://youtu.be/ZUqGSbvZp1k?si=ONyPaIZz48_W5fAc<br>
-3. Hacking Bookstore 
-a. Link: https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbee<br>  
-4. Hacking APIs: Fuzzing 101 
-a. https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbeehttps://w
+1. Stapler 1 - CTF Walkthrough - Boot-To-Root
+a. Link: <https://www.youtube.com/watch?v=cSOAzEQHlh0><br>
+2. CTF Walkthrough with John Hammond
+a. Link: <https://youtu.be/ZUqGSbvZp1k?si=ONyPaIZz48_W5fAc><br>
+3. Hacking Bookstore
+a. Link: <https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbee><br>  
+4. Hacking APIs: Fuzzing 101
+a. <https://www.youtube.com/watch?v=47S9DyA3Z6Y&ab_channel=elbeehttps://w>
 ww.youtube.com/watch?v=M_guA0wjrLg<br>
-5. TryHackMe! Bookstore - REST API Fuzzing //walk-through 
-a. Link: https://www.youtube.com/watch?v=un6aNIbpGUY&ab_channel=Yesspider<br>  
-6. Bookstore — TryHackMe — WriteUp  
-a. Link: https://tonyrahmos.medium.com/bookstore-tryhackme-writeup-
+5. TryHackMe! Bookstore - REST API Fuzzing //walk-through
+a. Link: <https://www.youtube.com/watch?v=un6aNIbpGUY&ab_channel=Yesspider><br>  
+6. Bookstore - TryHackMe - WriteUp  
+a. Link: <https://tonyrahmos.medium.com/bookstore-tryhackme-writeup->
 a2e87e6064f1<br>  
-
----
 
 Note: This simulation was conducted in a controlled TryHackMe lab environment with no real-world systems harmed.
