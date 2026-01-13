@@ -39,17 +39,14 @@ Trinity Klein - Contributor<br>
 5. Privilege Escalation – Analyzed custom binary (`try-harder`) with Ghidra, identified required “magic number.”
 6. Root Access – Derived correct value, executed binary, escalated to root, and retrieved `root.txt`.
 
-## Key Learning
+## Key Learning & Outcomes
 
 - Importance of systematic reconnaissance in penetration testing.
 - Applied REST API fuzzing to exploit insecure endpoints.
 - Hands-on experience with reverse engineering binaries for privilege escalation.
 - Strengthened incident reporting & documentation skills.
 - Practiced team-based problem solving under strict time constraints.
-
-## Outcome
-
-Successfully achieved root access on the Bookstore CTF machine, demonstrating end-to-end penetration testing workflow from reconnaissance to privilege escalation.
+- Successfully achieved root access on the Bookstore CTF machine, demonstrating end-to-end penetration testing workflow from reconnaissance to privilege escalation.
 
 ## Repository Structure
 
